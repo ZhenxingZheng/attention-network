@@ -6,12 +6,14 @@ Convolutional Neural Networks (CNNs) have shown an effective way to learn spatio
 
 # Visualization
 ![image](https://github.com/ZhenxingZheng/attention-network/blob/master/dribble_20191226122506.gif )
+
 ![image](https://github.com/ZhenxingZheng/attention-network/tree/master/visualization/zheng8.jpg )
 
 
 Comparison with SOTA 
 ![image](https://github.com/ZhenxingZheng/attention-network/tree/master/visualization/zheng10.jpg )
-The pictures in the bottom row are copied from RSTAN [1]
+
+The images in the bottom row are copied from RSTAN [1]
 
 
 # Coming soon
