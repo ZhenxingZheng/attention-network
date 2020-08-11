@@ -17,15 +17,15 @@ Directory Tree
 
 ```
 Datasets/
-	HMDB/
-		dirs of class name/
-			dirs of video names/
-				0.jpg
-	list/
-		hmdb_final_split1_train.txt
-			HMDB/brush_hair/April_09_brush_hair_u_nm_np1_ba_goo_0 408 0
+  HMDB/
+    dirs of class name/
+      dirs of video names/
+        0.jpg
+  list/
+    hmdb_final_split1_train.txt
+      HMDB/brush_hair/April_09_brush_hair_u_nm_np1_ba_goo_0 408 0
 dirs of code name/
-	main.py
+  main.py
 ```
 
 
