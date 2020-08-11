@@ -54,3 +54,20 @@ The pretrained models on Kinetics can be downloaded from [Baidu Yun](https://pan
 
 
 
+
+## Citation
+
+```
+@ARTICLE{9050644,  
+author={Z. {Zheng} and G. {An} and D. {Wu} and Q. {Ruan}}, 
+journal={IEEE Transactions on Neural Networks and Learning Systems},   
+title={Global and Local Knowledge-Aware Attention Network for Action Recognition},   
+year={2020},  
+volume={}, 
+number={}, 
+pages={1-14},
+doi={10.1109/TNNLS.2020.2978613},
+}
+```
+
+
