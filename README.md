@@ -50,7 +50,7 @@ The datasets and splits can be downloaded from
 
 
 ## Models
-The pretrained models on Kinetics can be downloaded from [Baidu Yun](链接：https://pan.baidu.com/s/1mUknQibh6Xs5MryI5qwqYQ), code:oa98.
+The pretrained models on Kinetics can be downloaded from [Baidu Yun](https://pan.baidu.com/s/1mUknQibh6Xs5MryI5qwqYQ), code:oa98.
 
 
 
