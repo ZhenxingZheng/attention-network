@@ -86,17 +86,6 @@ def main():
         return selfloss.mean()
 
 
-    if args.pretrained:
-        dicts_net = net.state_dict()
-        weights = torch.load('./model/Kinetics_cnnlstm.pkl')
-        count = 0
-        for key, value in weights.items():
-            for key_net, value_net in dicts_net.items():
-                if key.startswith('module.spatial.net') and key == key_net:
-                    dicts_net[key_net] = value
-                    count += 1
-        print ('loading {0} pretrained weights from Kinetics-600'.format(count))
-        net.load_state_dict(dicts_net)
 
     if args.cross:
         net.load_state_dict(torch.load('./model/2019-03-04 23:12:5914.pkl'))
