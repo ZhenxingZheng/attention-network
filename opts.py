@@ -1,6 +1,6 @@
 import argparse
 
-parser = argparse.ArgumentParser(description='Multi_Level Recurrent Residual Network for Action Recognition')
+parser = argparse.ArgumentParser(description='Global and Local Knowledge-Aware Attention Network for Action Recognition')
 
 
 #============================ Code Configs ============================
